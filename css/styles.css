@@ -25,6 +25,14 @@ body {
     font-weight: bold;
 }
 
+.logo-image {
+    width: 125px;
+    height: 64px;
+    border-radius: 0%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+
 .nav-link {
     font-family: "Montserrat-light";
     font-size: 1.5 rem;
