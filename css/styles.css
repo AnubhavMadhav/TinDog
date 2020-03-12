@@ -67,12 +67,14 @@ p {
     transform: rotate(25deg);
     position: absolute;
     right: 70;
+    padding-top: 2%;
 }
 
 .download-button {
     padding-top: 2%;
     padding-left: 2%;
     padding-right: 3%;
+    padding-bottom: 2%;
 }
 
 #features {
@@ -141,4 +143,16 @@ p {
 
 .pricing-column {
     padding: 3% 2%;
+}
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+    .dog-image {
+        position: static;
+        transform: rotate(0);
+        padding-top: 10%;
+        padding-right: 20%;
+    }
 }
