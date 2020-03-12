@@ -156,3 +156,22 @@ p {
         padding-right: 20%;
     }
 }
+
+#cta {
+    background-color: #ff4c68;
+    padding: 3% 7%;
+    font-family: 'Montserrat-Bold';
+    text-align: center;
+    color: white;
+    font-weight: 300;
+}
+
+.download-button2 {
+    text-align: center;
+    padding-right: 100px;
+}
+
+#footer {
+    text-align: center;
+    padding-top: 1%;
+}
