@@ -153,6 +153,10 @@ p {
     padding: 3% 2%;
 }
 
+.card-body {
+    height: 311px;
+}
+
 @media (max-width: 1028px) {
     #title {
         text-align: center;
